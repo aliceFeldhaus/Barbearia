@@ -1,0 +1,10 @@
+/* FONTE */
+
+.font{
+  font-family: Andale Mono, monospace;
+}
+
+  .texto-home{
+    text-align: center;
+    margin-top: 20em;
+  }

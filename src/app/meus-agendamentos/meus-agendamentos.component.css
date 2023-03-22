@@ -1,0 +1,83 @@
+/* FONTE */
+
+.font{
+  font-family: Andale Mono, monospace;
+}
+
+/* NAV */
+
+.nav{
+  background-color: #73341D;
+  height: 60px;
+}
+
+.logo{
+  margin-top: 30px;
+}
+
+.item-menu{
+  color: white;
+  margin: 1em;
+}
+
+.item-menu:hover{
+  background-color: white;
+  border-radius: 12px;
+  color: #73341D;
+}
+
+.texto-home{
+  text-align: center;
+  font-family: Andale Mono, monospace;
+  margin-top: 20em;
+}
+
+.active{
+  background-color: white;
+  color: #73341D;
+  border-radius: 12px;
+}
+
+.active:hover{
+  background-color: #73341D;
+  color: white;
+  border-radius: 12px;
+}
+
+/* tela */
+
+.btn-icon{
+  color: white;
+  background-color: #73341D;
+  border-radius: 10px;
+  margin-left: 0.3em;
+}
+
+.btn-icon:hover{
+  color: #73341D;
+  background-color: transparent;
+  border-color: #73341D;
+}
+
+.fas{
+  font-size: 1em;
+}
+
+.table{
+  text-align: center;
+}
+
+h2{
+  margin-left: 1em;
+  margin-top: 1em;
+  text-align: center;
+}
+
+.cabecalho{
+  background-color: #73341D;
+}
+
+.titulo-cabecalho {
+  color: white;
+  font-size: 1.3em;
+}
